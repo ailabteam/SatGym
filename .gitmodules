@@ -1,0 +1,6 @@
+[submodule "deps/StarPerf_Simulator"]
+	path = deps/StarPerf_Simulator
+	url = https://github.com/SpaceNetLab/StarPerf_Simulator.git
+[submodule "deps/UAV_Obstacle_Avoiding_DRL"]
+	path = deps/UAV_Obstacle_Avoiding_DRL
+	url = https://github.com/ZYunfeii/UAV_Obstacle_Avoiding_DRL.git

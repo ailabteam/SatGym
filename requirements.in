@@ -1,0 +1,21 @@
+# Core RL libraries
+gymnasium
+pettingzoo
+
+# RL algorithm library
+stable-baselines3[extra]
+
+# Core data & science libraries
+numpy < 2.0  # Force numpy v1.x to maintain compatibility
+pandas
+h5py
+networkx
+matplotlib
+
+# Dependencies from StarPerf & UAV Sim
+skyfield
+sgp4
+ephem
+poliastro
+astropy
+# ... (các dependency nhỏ khác có thể được pip-compile tự động thêm vào)
